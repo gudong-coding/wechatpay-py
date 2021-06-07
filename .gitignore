@@ -1,0 +1,6 @@
+build
+dist
+.vscode
+src/wechatpay_py.egg-info
+src/conf
+**/__pycache__
